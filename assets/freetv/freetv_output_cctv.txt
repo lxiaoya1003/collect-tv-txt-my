@@ -1,5 +1,5 @@
 更新时间,#genre#
-20241205 07:51:41,url
+20241205 10:49:30,url
 
 
 freetv_cctv,#genre#
@@ -152,6 +152,7 @@ CCTV11,https://stream1.freetv.fun/cctv11-29.ctv
 CCTV11,https://stream1.freetv.fun/cctv11-31.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-35.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-38.m3u8
+CCTV11,https://stream1.freetv.fun/cctv11-39.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-41.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-45.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-46.m3u8
@@ -423,6 +424,7 @@ CCTV15,https://stream1.freetv.fun/cctv15-38.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-4.ctv
 CCTV15,https://stream1.freetv.fun/cctv15-40.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-42.m3u8
+CCTV15,https://stream1.freetv.fun/cctv15-44.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-45.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-48.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-5.m3u8
